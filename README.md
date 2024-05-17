@@ -1,5 +1,5 @@
 # MobileRobot-Openloopcontrol
-NAME :RANJAN KUMAR G
+NAME :RANJAN KUMAR G   
 REG NO:212223240105
 ## Aim:
 To develop a python control code to move the mobilerobot along the predefined path.
